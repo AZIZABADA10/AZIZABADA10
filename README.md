@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Bienvenue+sur+le+profil+d%27AZIZABADA10&animation=fadeIn&color=gradient&height=120" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bienvenue%20sur%20le%20profil%20d%27AZIZABADA10&fontSize=48&animation=fadeIn" alt="Banner AZIZABADA10"/>
 </p>
-
 ## 👋 Qui suis-je ?
 
 0-1Je suis **AZIZABADA10**, **Développeur Full‑Stack**, spécialisé dans la création d’applications web complètes, performantes et esthétiques.   
