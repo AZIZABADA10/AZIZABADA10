@@ -11,10 +11,10 @@ Je combine une expertise technique avec un sens du design fonctionnel.
 
 | Domaine           | Technologies |
 |------------------|--------------|
-| **Front-End**     | 0-3HTML5, CSS3, JavaScript, React  |
-| **Back-End**      | 0-4Node.js, PHP, Laravel           |
-| 0-5**Base de données**  | MySQL                     |
-| 0-6**DevOps / CI-CD** | 0-7Docker, Git, GitHub Actions    |
+| **Front-End**     | HTML5, CSS3, JavaScript, React  |
+| **Back-End**      | Node.js, PHP, Laravel           |
+| **Base de données**  | MySQL                     |
+| **DevOps / CI-CD** | Docker, Git, GitHub Actions    |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,mysql,docker,git&theme=dark" alt="tech icons"/>
@@ -29,19 +29,9 @@ Je combine une expertise technique avec un sens du design fonctionnel.
 
 ##  Contact
 
-- **Twitter** : [@AZIZABADA10](https://twitter.com/AZIZABADA10)   
-- **Email** : `azizabada10@gmail.com`   
+- **Twitter** : [@AZIZABADA10](https://twitter.com/AZIZABADA10)   
+- **Email** : `azizabada10@gmail.com`
 - Disponible pour des collaborations freelance, retour technique ou projets open‑source !
 
 ---
-
-
----
-
-##  Comment l’installer
-
-1. 2000-0Crée un dépôt public nommé **AZIZABADA10**. 
-2. 2000-1Active **« Add a README file »** à la création. 
-3. 2000-2Colle ce contenu dans le fichier `README.md`. 
-4. 2000-3Commits & pushes — le tour est joué ! 
 
