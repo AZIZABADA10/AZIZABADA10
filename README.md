@@ -3,9 +3,8 @@
 </p>
 ##  Qui suis-je ?
 
-0-1Je suis **AZIZABADA10**, **Développeur Full‑Stack**, spécialisé dans la création d’applications web complètes, performantes et esthétiques.   
-0-2Je combine une expertise technique avec un sens du design fonctionnel. 
-
+Je suis **AZIZABADA10**, **Développeur Full‑Stack**, spécialisé dans la création d’applications web complètes, performantes et esthétiques.
+Je combine une expertise technique avec un sens du design fonctionnel.
 ---
 
 ##  Compétences & Technologies
@@ -21,16 +20,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,mysql,docker,git&theme=dark" alt="tech icons"/>
 </p>
 
----
-
-##  Projets récents
-
-- 0-8**Projet React‑Laravel** : Application de gestion de stock avec interface moderne et API sécurisée. 
-- 0-9**Dashboard Node.js + Docker** : Dashboard temps réel mis en conteneur avec Docker & CI automatisé. 
-- 0-10*(Ajoute ici 2–3 liens vers tes projets ou screens/fonctionnalités)* 
-
----
-
 ##  Statistiques GitHub
 
 ![0-11AZIZABADA10 GitHub stats ](https://github-readme-stats.vercel.app/api?username=AZIZABADA10&show_icons=true&theme=dark)  
@@ -40,15 +29,12 @@
 
 ##  Contact
 
-- 0-12**Twitter** : [@AZIZABADA10](https://twitter.com/AZIZABADA10)   
-- 0-13**Email** : `azizabada10@gmail.com`   
-- 0-14 Disponible pour des collaborations freelance, retour technique ou projets open‑source ! 
+- **Twitter** : [@AZIZABADA10](https://twitter.com/AZIZABADA10)   
+- **Email** : `azizabada10@gmail.com`   
+- Disponible pour des collaborations freelance, retour technique ou projets open‑source !
 
 ---
 
-##  À propos du README
-
-0-15Ce format est inspiré de modèles structurés, avec sections claires, badges et table de contenus optionnelle  16.
 
 ---
 
