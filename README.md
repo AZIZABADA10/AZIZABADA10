@@ -3,7 +3,7 @@
 </p>
 ##  Qui suis-je ?
 
-Je suis **AZIZABADA10**, **Développeur Full‑Stack**, spécialisé dans la création d’applications web complètes, performantes et esthétiques.
+Je suis **AZIZ ABADA**, **Développeur web Full‑Stack**, spécialisé dans la création d’applications web complètes, performantes et esthétiques.
 Je combine une expertise technique avec un sens du design fonctionnel.
 ---
 
