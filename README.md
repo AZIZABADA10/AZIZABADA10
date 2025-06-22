@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bienvenue%20mon%20fontSize=48&animation=fadeIn" alt="Banner AZIZABADA10"/>
-</p>
-##  Qui suis-je ?
-
 Je suis **AZIZ ABADA**, **Développeur web Full‑Stack**, spécialisé dans la création d’applications web complètes, performantes et esthétiques.
 Je combine une expertise technique avec un sens du design fonctionnel.
 ---
