@@ -8,7 +8,7 @@ Je combine une expertise technique avec un sens du design fonctionnel.
 |------------------|--------------|
 | **Front-End**     | HTML5, CSS3, JavaScript, React  |
 | **Back-End**      | Node.js, PHP, Laravel           |
-| **Base de données**  | MySQL                     |
+| **Base de données**  | MySQL, MongoDB                |
 | **DevOps / CI-CD** | Docker, Git, GitHub Actions    |
 
 <p align="center">
