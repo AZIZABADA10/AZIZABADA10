@@ -16,10 +16,6 @@
 
 ###
 
-<h3 align="left">Language and tools</h3>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -57,10 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
-
-###
-
-<h3 align="left">My Stats :</h3>
 
 ###
 
