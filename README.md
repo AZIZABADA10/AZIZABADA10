@@ -1,10 +1,10 @@
-<img align="right" height="155" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="155" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 <h1 align="center">Hello, I'm Aziz. Welcome to my GitHub account!<br>I'm a full-stack web developer.</h1>
 
 <div align="right">
   <a href="https://www.linkedin.com/in/aziz-abada/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="41" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="41" alt="linkedin logo" />
   </a>
 </div>
 
