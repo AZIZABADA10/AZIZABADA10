@@ -1,15 +1,19 @@
 name: Generate Snake
 
 on:
-  schedule: # runs every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+  schedule: # exécution automatique tous les jours à minuit
+    - cron: "0 0 * * *"
+  workflow_dispatch: # exécution manuelle possible depuis l'onglet Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate Snake
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: AZIZABADA10
@@ -22,5 +26,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          force_orphan: true   
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<!-- Snake animation -->
-![Snake animation](https://github.com/AZIZABADA10/AZIZABADA10/blob/output/dist/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AZIZABADA10/AZIZABADA10/output/github-contribution-grid-snake.svg)
+
 
