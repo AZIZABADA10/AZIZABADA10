@@ -1,6 +1,6 @@
 <img align="right" height="155" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-<h1 align="center">Hello, I'm Aziz. Welcome to my GitHub account!<br>I'm a full-stack web developer.</h1>
+<h1 align="center">Hello, I'm Aziz. Welcome to my GitHub account!<br>I'm a web Full-Stack  Developer.</h1>
 
 <div align="right">
   <a href="https://www.linkedin.com/in/aziz-abada/" target="_blank">
