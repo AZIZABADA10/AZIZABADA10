@@ -73,9 +73,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AZIZABADA10/AZIZABADA10/output/snake.svg" alt="Snake animation" />
-
-###
