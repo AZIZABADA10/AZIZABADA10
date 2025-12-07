@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td>
-      <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+      <img height="220" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
     </td>
     <td>
       <h1>Hi 👋, I'm Aziz Abada</h1>
