@@ -43,7 +43,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=azizabada10&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azizabada10&theme=tokyonight" height="200"/>
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azizabada10&theme=tokyonight" height="200"/>
 </p>
 
 
