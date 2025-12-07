@@ -43,9 +43,14 @@
 
 ## 📊 Most Used Languages
 
+## 📊 Most Used Languages
+
 <p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizabada10&layout=compact&theme=tokyonight&langs_count=8" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizabada10&layout=compact&theme=tokyonight&langs_count=8&card_width=450"
+       height="200"
+  />
 </p>
+
 
 ---
