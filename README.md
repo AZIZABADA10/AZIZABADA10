@@ -44,11 +44,11 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizabada10&layout=compact&theme=tokyonight&langs_count=8&card_width=500"
-       height="220"
-  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azizabada10&theme=tokyonight" height="200"/>
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azizabada10&theme=tokyonight" height="200"/>
 </p>
+
 
 
 
