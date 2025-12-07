@@ -1,15 +1,16 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
+  <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
   <div>
     <h1>Hi 👋, I'm Aziz Abada</h1>
     <h3>A passionate Full-Stack Web Developer from Morocco</h3>
   </div>
 
-  <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-
 </div>
 
 <br/>
+
 
 ---
 
