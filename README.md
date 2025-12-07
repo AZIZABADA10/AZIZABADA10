@@ -9,21 +9,21 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azizabada10&theme=dracula&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 I’m currently learning at **YouCode**
-- 💻 Passionate about **web development**
-- 🌱 Always exploring **new technologies**
+## About Me
+- I’m currently learning at **YouCode**
+- Passionate about **web development**
+- Always exploring **new technologies**
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,redux,nodejs,express,bootstrap,tailwind,sass" />
@@ -33,7 +33,7 @@
 
 ---
 
-## 🔥 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=azizabada10&theme=tokyonight" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 Most Used Languages
+## Most Used Languages
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azizabada10&theme=tokyonight" height="200"/>
