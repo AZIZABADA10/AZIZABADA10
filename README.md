@@ -40,3 +40,12 @@
 </p>
 
 ---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizabada10&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+---
