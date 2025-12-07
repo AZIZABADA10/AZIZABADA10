@@ -5,7 +5,7 @@
       <h3>A passionate Full-Stack Web Developer from Morocco</h3>
     </td>
     <td>
-      <img height="220" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+      <img height="290" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
     </td>
    
   </tr>
