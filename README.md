@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aziz Abada</h1>
 <h3 align="center">A passionate web full stack developer from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizabada10" alt="azizabada10" /></a> </p>
+<p align="left">
+  <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizabada10" alt="azizabada10" /></a> </p>
 
-- 🌱 I’m currently learning **At YouCode**
+- I’m currently learning **At YouCode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
