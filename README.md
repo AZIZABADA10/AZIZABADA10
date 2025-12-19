@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently learning at YouCode</h3>
 
 <!-- Container centré avec espace entre les images -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px; margin-left: 100px;">
   <img height="150" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhiZGF3amlobTFieDJ4cTFpN3MzajU2eXRpaWFkbmVxMHFlMGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3LZqcXQ3A6tkZdL0sH/giphy.gif" />
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWpuOHNvd2RhNDZwNmg0anY0d2ZrY3M4dXV1aHl5ZHB0MzJrbnlnMyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/cIn5fTcjnKhStIeAef/giphy.gif" />
