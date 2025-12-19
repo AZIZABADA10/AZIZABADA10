@@ -1,14 +1,12 @@
-<h1>I'm Aziz Abada</h1>
-<h3>I'm currently learning at YouCode</h3>
+<h1 align="center">I'm Aziz Abada</h1>
+<h3 align="center">I'm currently learning at YouCode</h3>
 
 <!-- Container pour les gifs -->
-<div style="display: flex; gap: 10px; justify-between: flex-end; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: 0 auto;">
   <img height="150" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhiZGF3amlobTFieDJ4cTFpN3MzajU2eXRpaWFkbmVxMHFlMGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3LZqcXQ3A6tkZdL0sH/giphy.gif" />
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWpuOHNvd2RhNDZwNmg0anY0d2ZrY3M4dXV1aHl5ZHB0MzJrbnlnMyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/cIn5fTcjnKhStIeAef/giphy.gif" />
 </div>
-
-<br clear="both">
 
 <h3 align="left">Language and tools</h3>
 
