@@ -1,7 +1,7 @@
 # AzizOS v1.0 — Full Stack Developer Terminal
 
 <p align="center">
-  Booting Dev System... Welcome to AzizOS
+  <i>"Booting Dev System... Welcome to AzizOS "</i>
 </p>
 
 ---
@@ -21,9 +21,9 @@ Status        : Active
 
 ---
 
-Core Modules
+🧩 Core Modules
 
-Kernel (Fundamentals)
+🔹 Kernel (Fundamentals)
 
 HTML5 / CSS3 / JavaScript
 
@@ -32,7 +32,7 @@ PHP / Python / C
 SQL / Algorithmic Thinking
 
 
-Backend Services
+🔹 Backend Services
 
 Laravel (REST API)
 
@@ -43,7 +43,7 @@ JWT / Sanctum Auth
 MySQL / PostgreSQL / MongoDB
 
 
-Frontend Engine
+🔹 Frontend Engine
 
 React.js + Redux
 
@@ -52,7 +52,7 @@ Bootstrap / Tailwind
 Figma UI/UX
 
 
-DevOps & Infrastructure
+🔹 DevOps & Infrastructure
 
 Docker / Docker Compose
 
@@ -66,16 +66,19 @@ Linux / Debian / Nginx
 
 ---
 
-Active Experiments (Projects)
+🔬 Active Experiments (Projects)
 
 + Microservices E-Commerce (Docker + JWT + React)
 + Banking Simulation Mini-App (Frontend Only)
 + Material Request Management System
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="120"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWpuOHNvd2RhNDZwNmg0anY0d2ZrY3M4dXV1aHl5ZHB0MzJrbnlnMyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/cIn5fTcjnKhStIeAef/giphy.gif" height="120"/>
+</p>
 ---
 
-Roadmap
+🧭 Roadmap
 
 [✔] REST APIs
 [✔] JWT Authentication
@@ -87,7 +90,7 @@ Roadmap
 
 ---
 
-System Telemetry
+📊 System Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AZIZABADA10&show_icons=true&theme=dracula" height="150"/>
@@ -97,7 +100,7 @@ System Telemetry
 </p>
 ---
 
-Philosophy
+🧠 Philosophy
 
 I don't just write code.
 I build systems.
@@ -107,24 +110,50 @@ I think in architecture.
 
 ---
 
-Skills & Tools
+🏷️ Skills & Tools
 
 <p align="center">
-  HTML5 | CSS3 | JavaScript | React.js | Redux | Bootstrap | Tailwind | Figma | 
-  Node.js | Express | Laravel | Docker | AWS | Python | PHP | Git | GitHub | 
-  MongoDB | MySQL | PostgreSQL | Linux | Jenkins | Nginx
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/amazonwebservices-line-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </p>
 ---
 
-Easter Egg
+🎁 Easter Egg
 
 $ whoami
-> Aziz Abada — Full Stack Engineer in Progress
+> Aziz Abada — Full Stack Engineer in Progress 🚀
 
-<!-- If you read this, you are probably a developer too -->
+<!-- If you read this, you are probably a developer too 😉 -->
 
 
 ---
 
-Made with dedication, discipline and continuous learning.
+> Made with ❤️, ☕ & a bit of 🖤
+
+
+
+---
+
+💡 **Caractéristiques spéciales de ce README** :
+
+1. **Hero Section** moderne façon “terminal / boot screen”  
+2. **Skills classés en modules**, pas en simple liste  
+3. **Projets comme des “active experiments”**  
+4. **Roadmap et philosophie** → très attractif pour recruteurs  
+5. **Badges et GIFs** pour dynamiser la page  
+6. **Easter egg amusant** → touche originale
+
+---
 
