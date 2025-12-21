@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aziz Abada</h1>  
+<h1 align="center">Hi, I'm Aziz Abada</h1>  
 <h3 align="center">Full Stack Web Developer | Learning at YouCode</h3>  <!-- GIFs Section -->  <div align="center" style="margin-top: 25px;">  
   <img height="150" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />  
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWpuOHNvd2RhNDZwNmg0anY0d2ZrY3M4dXV1aHl5ZHB0MzJrbnlnMyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/cIn5fTcjnKhStIeAef/giphy.gif" />  
@@ -8,7 +8,7 @@
 </div>  
 ---
 
-<h3 align="left">🛠 Language and Tools</h3>  <div align="center" style="margin-top: 20px;">    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40"/>  
+<h3 align="left">Language and Tools</h3>  <div align="center" style="margin-top: 20px;">    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>  
@@ -43,6 +43,6 @@
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/>  </div>  
 ---
 
-<h3 align="left">📊 My Stats</h3>  <div align="center">    <img src="https://github-readme-stats.vercel.app/api?username=AZIZABADA10&show_icons=true&theme=dracula" height="150"/>    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AZIZABADA10&layout=compact&theme=dracula" height="150"/>  </div>  <div align="center" style="margin-top: 20px;">  
+<h3 align="left"> My Stats</h3>  <div align="center">    <img src="https://github-readme-stats.vercel.app/api?username=AZIZABADA10&show_icons=true&theme=dracula" height="150"/>    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AZIZABADA10&layout=compact&theme=dracula" height="150"/>  </div>  <div align="center" style="margin-top: 20px;">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIZABADA10&theme=react-dark&area=true"/>  
 </div>  
