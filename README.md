@@ -6,7 +6,6 @@
 <div align="center" style="margin-top: 25px;">  
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhiZGF3amlobTFieDJ4cTFpN3MzajU2eXRpaWFkbmVxMHFlMGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3LZqcXQ3A6tkZdL0sH/giphy.gif" />  
 </div>  
----
 
 <h3 align="left">Language and Tools</h3>  <div align="center" style="margin-top: 20px;">    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40"/>  
@@ -41,7 +40,6 @@
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/>  </div>  
----
 
 <h3 align="left"> My Stats</h3>  <div align="center">    <img src="https://github-readme-stats.vercel.app/api?username=AZIZABADA10&show_icons=true&theme=dracula" height="150"/>    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AZIZABADA10&layout=compact&theme=dracula" height="150"/>  </div>  <div align="center" style="margin-top: 20px;">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIZABADA10&theme=react-dark&area=true"/>  
