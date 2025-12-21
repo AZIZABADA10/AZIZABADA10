@@ -1,14 +1,15 @@
-<h1 align="center">Hi, I'm Aziz Abada</h1>  
-<h3 align="center">Full Stack Web Developer | Learning at YouCode</h3> 
+<h1 align="center">Hi, I'm Aziz Abada</h1>
+<h3 align="center">Full Stack Web Developer | Learning at YouCode - UM6P</h3>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Crafting+Scalable+Solutions;Transforming+Ideas+into+Code" alt="Typing SVG" />
- <!-- GIFs Section -->  <div align="center" style="margin-top: 25px;">  
-  <img height="150" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />  
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWpuOHNvd2RhNDZwNmg0anY0d2ZrY3M4dXV1aHl5ZHB0MzJrbnlnMyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/cIn5fTcjnKhStIeAef/giphy.gif" />  
-</div>  
-<div align="center" style="margin-top: 25px;">  
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhiZGF3amlobTFieDJ4cTFpN3MzajU2eXRpaWFkbmVxMHFlMGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3LZqcXQ3A6tkZdL0sH/giphy.gif" />  
-</div>  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Crafting+Scalable+Solutions;Transforming+Ideas+into+Code" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="gif-1" style="margin: 0 10px;" />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWpuOHNvd2RhNDZwNmg0anY0d2ZrY3M4dXV1aHl5ZHB0MzJrbnlnMyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/cIn5fTcjnKhStIeAef/giphy.gif" alt="gif-2" style="margin: 0 10px;" />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhiZGF3amlobTFieDJ4cTFpN3MzajU2eXRpaWFkbmVxMHFlMGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3LZqcXQ3A6tkZdL0sH/giphy.gif" alt="gif-3" style="margin: 0 10px;" />
+</p>
 
 ## About Me
 
