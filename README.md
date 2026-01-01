@@ -56,6 +56,14 @@ const aziz = {
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/>  </div>  
 
-<h3 align="left"> My Stats</h3>  <div align="center">    <img src="https://github-readme-stats.vercel.app/api?username=AZIZABADA10&show_icons=true&theme=dracula" height="150"/>    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AZIZABADA10&layout=compact&theme=dracula" height="150"/>  </div>  <div align="center" style="margin-top: 20px;">  
+<h3 align="left"> My Stats</h3>  <div align="center">
+<img
+    src="https://github-readme-stats.vercel.app/api?username=AZIZABADA10&show_icons=true&theme=dracula"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AZIZABADA10&layout=compact&theme=dracula"
+    height="150"
+  />  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIZABADA10&theme=react-dark&area=true"/>  
 </div>  
