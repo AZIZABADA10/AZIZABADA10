@@ -64,9 +64,7 @@ const aziz = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIZABADA10&theme=react-dark&area=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=AZIZABADA10&show_icons=true&theme=dracula&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZIZABADA10&layout=compact&theme=dracula&cache_seconds=1800" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AZIZABADA10&theme=dracula&hide_border=true)
 
 </div>
 
