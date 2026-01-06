@@ -59,12 +59,11 @@ const aziz = {
 <h3 align="left"> My GitHub Stats</h3>
 
 <div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=AZIZABADA10&theme=dracula&hide_border=true" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AZIZABADA10&theme=dracula" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIZABADA10&theme=react-dark&area=true" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=AZIZABADA10&theme=dracula&hide_border=true" />
 
 </div>
 
