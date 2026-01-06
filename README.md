@@ -64,7 +64,7 @@ const aziz = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIZABADA10&theme=react-dark&area=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AZIZABADA10&theme=dracula&hide_border=true)
+<img src="https://nirzak-streak-stats.vercel.app/?user=AZIZABADA10&theme=dracula&hide_border=true" />
 
 </div>
 
