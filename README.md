@@ -28,7 +28,7 @@ const aziz = {
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40"/>  
-  <img width="12"/>    <!-- ❌ Drupal supprimé -->    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>  
+  <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/>  
@@ -56,7 +56,19 @@ const aziz = {
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>  
   <img width="12"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/>  </div>  
 
-<h3 align="left"> My Stats</h3>  <div align="center">
+<h3 align="left"> My GitHub Stats</h3>
+
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AZIZABADA10&theme=dracula" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIZABADA10&theme=react-dark&area=true"/>  
-</div>  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIZABADA10&theme=react-dark&area=true"/>
+
+<img src="https://streak-stats.demolab.com?user=AZIZABADA10&theme=dracula&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AZIZABADA10&show_icons=true&theme=dracula"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZIZABADA10&layout=compact&theme=dracula"/>
+
+</div>
+
