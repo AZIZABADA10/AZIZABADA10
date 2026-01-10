@@ -16,7 +16,7 @@ const aziz = {
     location: "Safi, Morocco 🇲🇦",
     education: "YouCode | Web Full Stack Development",
     currentFocus: ["MVC Architecture", "RESTful APIs", "Microservices"],
-    learning: ["Design Patterns", "Web Security", "API Architecture"],
+    learning: ["Design Patterns", "Web Security", "API Architecture","Web Development"],
     passion: "Turning complex problems into elegant solutions",
     funFact: "I debug code faster than I debug my life choices"
 };
