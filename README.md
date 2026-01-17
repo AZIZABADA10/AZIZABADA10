@@ -13,7 +13,7 @@
 
 ```javascript
 const aziz = {
-    location: "Safi, Morocco 🇲🇦",
+    location: "Safi, Morocco",
     education: "YouCode | Web Full Stack Development",
     currentFocus: ["MVC Architecture", "RESTful APIs", "Microservices"],
     learning: ["Design Patterns", "Web Security", "API Architecture","Web Development"],
