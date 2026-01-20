@@ -1,9 +1,4 @@
-<div align="center">
-  <p align="center">
-    <strong>لَمَسْجِدٌ أُسِّسَ عَلَى التَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَنْ تَقُومَ فِيهِ</strong>
-  </p>
-  <hr width="50%">
-</div>
+![Verset](https://img.shields.io/badge/Fondation-أُسِّسَ%20عَلَى%20التَّقْوَىٰ-green?style=for-the-badge)
 <h1 align="center">Hi, I'm Aziz Abada</h1>
 <h3 align="center">Full Stack Web Developer | Learning at YouCode - UM6P</h3>
 
