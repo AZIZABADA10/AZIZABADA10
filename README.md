@@ -8,7 +8,9 @@
 <h3 align="center">Full Stack Web Developer | Learning at YouCode - UM6P</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Crafting+Scalable+Solutions;Transforming+Ideas+into+Code" alt="Typing SVG" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVjem8ybmRsaDJ6bm5ldm9ycGdvdXV2Zmd4bXhkdXNraHY2MmxsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5YjCcMBDBmxT4tbtzF/giphy.gif" width="300" alt="Work GIF" />
+  
+  <br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Crafting+Scalable+Solutions;Transforming+Ideas+into+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
