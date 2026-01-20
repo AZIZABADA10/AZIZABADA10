@@ -4,7 +4,7 @@
   </p>
   <hr width="50%">
 </div>
-<h1 align="center">Aziz Abada</h1>
+<h1 align="center">Hi, I'm Aziz Abada</h1>
 <h3 align="center">Full Stack Web Developer | Learning at YouCode - UM6P</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhiZGF3amlobTFieDJ4cTFpN3MzajU2eXRpaWFkbmVxMHFlMGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3LZqcXQ3A6tkZdL0sH/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWczYzV5aHhleDhyc3h3MzF6OXNlczg0cDV5c2ZkemQwbzM5MGRpYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5YjCcMBDBmxT4tbtzF/giphy.gif)" alt="gif-3" style="margin: 0 10px;" />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhiZGF3amlobTFieDJ4cTFpN3MzajU2eXRpaWFkbmVxMHFlMGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3LZqcXQ3A6tkZdL0sH/giphy.gif" alt="gif-3" style="margin: 0 10px;" />
 </p>
 
 ## About Me
