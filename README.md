@@ -1,3 +1,10 @@
+<div align="center">
+  <p align="center">
+    <sub><i>Sur des bases solides...</i></sub><br>
+    <strong>لَمَسْجِدٌ أُسِّسَ عَلَى التَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَنْ تَقُومَ فِيهِ</strong>
+  </p>
+  <hr width="50%">
+</div>
 <h1 align="center">Hi, I'm Aziz Abada</h1>
 <h3 align="center">Full Stack Web Developer | Learning at YouCode - UM6P</h3>
 
