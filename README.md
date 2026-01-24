@@ -10,7 +10,7 @@
 
   <br><br>
 
-  <h1>Hi, I'm Aziz Abada</h1>
+  <h1>Hello, I'm Aziz Abada</h1>
   <h3>Full Stack Web Developer | Learning at YouCode - UM6P</h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Crafting+Scalable+Solutions;Transforming+Ideas+into+Code" alt="Typing SVG" />
