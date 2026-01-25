@@ -105,7 +105,5 @@ const aziz = {
 
 
 
-
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIZABADA10&theme=react-dark&area=true" />
 </div>
