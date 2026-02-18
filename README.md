@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <strong>لَمَسْجِدٌ أُسِّسَ عَلَى التَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَنْ تَقُومَ فِيهِ</strong>
+    <strong>"لَمَسْجِدٌ أُسِّسَ عَلَى التَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَنْ تَقُومَ فِيهِ"</strong>
   </p>
   <hr width="50%">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVjem8ybmRsaDJ6bm5ldm9ycGdvdXV2Zmd4bXhkdXNraHY2MmxsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5YjCcMBDBmxT4tbtzF/giphy.gif" width="300" alt="Work GIF" />
