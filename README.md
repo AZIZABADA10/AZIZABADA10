@@ -8,7 +8,7 @@
   <br><br>
 
   <h1>Hello, I'm Aziz Abada</h1>
-  <h3>Full Stack Web Developer | Learning at YouCode - UM6P</h3>
+  <h3>Full Stack Developer </h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Crafting+Scalable+Solutions;Transforming+Ideas+into+Code" alt="Typing SVG" />
 </div>
@@ -20,7 +20,7 @@
 ```javascript
 const aziz = {
     location: "Safi, Morocco",
-    education: "YouCode | Web Full Stack Development",
+    education: "Web Full Stack Development",
     passion: "Turning complex problems into elegant solutions",
     funFact: "I debug code faster than I debug my life choices"
 };
